@@ -1,4 +1,4 @@
-REMOTE
+Remot
 # conflicts
 merge
 conflict
