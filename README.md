@@ -1,3 +1,8 @@
 REMOTE
 # conflicts
-merge conflicts
+merge
+conflict
+pull
+git
+push
+init
